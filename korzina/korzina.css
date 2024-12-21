@@ -1,0 +1,23 @@
+.card {
+    background-color: rgb(216, 213, 213);
+    border-radius: 8px;
+    width: 23%; 
+    margin-bottom: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.container {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.header {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
